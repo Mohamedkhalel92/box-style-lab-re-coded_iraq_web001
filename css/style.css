@@ -6,6 +6,10 @@ body, html {
   display: block;
   text-align: center;
 }
+* {
+  box-sizing: border-box;
+}
+
 
 .container, h1 {
   width: 80%;
